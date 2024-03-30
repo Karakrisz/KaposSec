@@ -11,12 +11,12 @@
                 <div class="main-footer__top__social">
                     <a href="https://facebook.com"><i class="icon-facebook-f" aria-hidden="true"></i><span
                             class="sr-only">Facebook</span></a>
-                    <a href="https://twitter.com"><i class="icon-x-twitter" aria-hidden="true"></i> <span
+                    <!-- <a href="https://twitter.com"><i class="icon-x-twitter" aria-hidden="true"></i> <span
                             class="sr-only">Twitter</span></a>
                     <a href="https://pinterest.com"><i class="icon-pinterest-p" aria-hidden="true"></i><span
                             class="sr-only">Pinterest</span></a>
                     <a href="https://instagram.com"><i class="icon-youtube" aria-hidden="true"></i><span
-                            class="sr-only">Instagram</span></a>
+                            class="sr-only">Instagram</span></a> -->
                 </div>
             </div>
         </div>
@@ -30,14 +30,17 @@
                         <h2 class="footer-widget__title">about</h2>
                         <p class="footer-widget__text">There are many variations passages <br> of Lorem Ipsum available,
                             but the majority have suffered alteration </p>
-                        <form action="#" data-url="MAILCHIMP_FORM_URL" class="footer-widget__newsletter mc-form">
-                            <input type="email" name="EMAIL" placeholder="Email">
-                            <button type="submit" class="icon-right-arrow"><span class="sr-only">submit</span></button>
-                        </form>
-                        <div class="mc-form__response"></div>
+                        <div class="footer-form">
+                            <form action="#" data-url="MAILCHIMP_FORM_URL" class="footer-widget__newsletter mc-form">
+                                <input type="email" name="EMAIL" placeholder="Email">
+                                <button type="submit" class="icon-right-arrow"><span
+                                        class="sr-only">submit</span></button>
+                            </form>
+                            <div class="mc-form__response"></div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-xl-2">
+                <div class="col-md-6 col-xl-4">
                     <div class="footer-widget footer-widget--links">
                         <h2 class="footer-widget__title">Links</h2>
                         <ul class="list-unstyled footer-widget__links">
@@ -49,32 +52,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-6 col-xl-3">
-                    <div class="footer-widget footer-widget--instagram">
-                        <h2 class="footer-widget__title">Gallery</h2>
-                        <div class="footer-widget__instagram">
-                            <a href="assets/images/instagram/1-1.jpg" class="img-popup">
-                                <img src="assets/images/instagram/1.jpg" alt="ostech image">
-                            </a>
-                            <a href="assets/images/instagram/1-2.jpg" class="img-popup">
-                                <img src="assets/images/instagram/2.jpg" alt="ostech image">
-                            </a>
-                            <a href="assets/images/instagram/1-3.jpg" class="img-popup">
-                                <img src="assets/images/instagram/3.jpg" alt="ostech image">
-                            </a>
-                            <a href="assets/images/instagram/1-4.jpg" class="img-popup">
-                                <img src="assets/images/instagram/4.jpg" alt="ostech image">
-                            </a>
-                            <a href="assets/images/instagram/1-5.jpg" class="img-popup">
-                                <img src="assets/images/instagram/5.jpg" alt="ostech image">
-                            </a>
-                            <a href="assets/images/instagram/1-6.jpg" class="img-popup">
-                                <img src="assets/images/instagram/6.jpg" alt="ostech image">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="footer-widget footer-widget--contact">
                         <h2 class="footer-widget__title">contact</h2>
                         <ul class="list-unstyled footer-widget__contact">
@@ -161,12 +139,12 @@
         <div class="mobile-nav__social">
             <a href="https://facebook.com"><i class="icon-facebook-f" aria-hidden="true"></i><span
                     class="sr-only">Facebook</span></a>
-            <a href="https://twitter.com"><i class="icon-x-twitter" aria-hidden="true"></i> <span
+            <!-- <a href="https://twitter.com"><i class="icon-x-twitter" aria-hidden="true"></i> <span
                     class="sr-only">Twitter</span></a>
             <a href="https://pinterest.com"><i class="icon-pinterest-p" aria-hidden="true"></i><span
                     class="sr-only">Pinterest</span></a>
             <a href="https://instagram.com"><i class="icon-youtube" aria-hidden="true"></i><span
-                    class="sr-only">Instagram</span></a>
+                    class="sr-only">Instagram</span></a> -->
         </div><!-- /.mobile-nav__social -->
     </div>
     <!-- /.mobile-nav__content -->

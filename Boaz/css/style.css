@@ -1,12 +1,27 @@
 /********************  Boaz formating start **********************/
 
+.about-one__feature__item__thumb,
+.footer-widget__thumb,
+.footer-form {
+  display: none;
+}
 
+.main-slider-one__title {
+  font-size: 90px;
+}
+
+.about-one__feature__item {
+  width: 100%;
+}
+
+.service-card-two__title {
+  font-size: 20px;
+}
 /********************  Media start **********************/
 
-@media screen and (max-width: 767px) {}
-
+@media screen and (max-width: 767px) {
+}
 
 /********************  Media end **********************/
-
 
 /********************  Boaz formating end **********************/

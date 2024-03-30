@@ -21,10 +21,10 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="main-slider-one__content">
-                                <h5 class="main-slider-one__sub-title"><span>Efficient Solutions, Exceptional
-                                        Results</span></h5>
+                                <h5 class="main-slider-one__sub-title"><span>MEGBÍZHATÓ VÉDELEM
+                                    </span></h5>
                                 <h2 class="main-slider-one__title">
-                                    IT Software Solution & Technology
+                                    A BIZTONSÁG NEM LUXUS, HANEM ALAPVETŐ JOG
                                     <span class="main-slider-one__title__overlay-group">
                                         <span class="main-slider-one__title__overlay"></span>
                                         <span class="main-slider-one__title__overlay"></span>
@@ -35,8 +35,7 @@
                                     </span>
                                 </h2>
                                 <div class="main-slider-one__link">
-                                    <a href="services.html" class="main-slider-one__link__btn ostech-btn">Discover
-                                        More</a>
+                                    <a href="#" class="main-slider-one__link__btn ostech-btn">Hívás most</a>
                                 </div>
                             </div>
                         </div>
@@ -59,10 +58,10 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="main-slider-one__content">
-                                <h5 class="main-slider-one__sub-title"><span>Efficient Solutions, Exceptional
-                                        Results</span></h5>
+                                <h5 class="main-slider-one__sub-title"><span>MEGBÍZHATÓ VÉDELEM
+                                    </span></h5>
                                 <h2 class="main-slider-one__title">
-                                    IT Software Tech & Solutions
+                                    A BIZTONSÁG NEM LUXUS, HANEM ALAPVETŐ JOG
                                     <span class="main-slider-one__title__overlay-group">
                                         <span class="main-slider-one__title__overlay"></span>
                                         <span class="main-slider-one__title__overlay"></span>
@@ -73,8 +72,7 @@
                                     </span>
                                 </h2>
                                 <div class="main-slider-one__link">
-                                    <a href="services.html" class="main-slider-one__link__btn ostech-btn">Discover
-                                        More</a>
+                                    <a href="#" class="main-slider-one__link__btn ostech-btn">Hívás most</a>
                                 </div>
                             </div>
                         </div>
@@ -97,10 +95,10 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="main-slider-one__content">
-                                <h5 class="main-slider-one__sub-title"><span>Efficient Solutions, Exceptional
-                                        Results</span></h5>
+                                <h5 class="main-slider-one__sub-title"><span>MEGBÍZHATÓ VÉDELEM
+                                    </span></h5>
                                 <h2 class="main-slider-one__title">
-                                    IT Software Solution & Technology
+                                    A BIZTONSÁG NEM LUXUS, HANEM ALAPVETŐ JOG
                                     <span class="main-slider-one__title__overlay-group">
                                         <span class="main-slider-one__title__overlay"></span>
                                         <span class="main-slider-one__title__overlay"></span>
@@ -111,8 +109,7 @@
                                     </span>
                                 </h2>
                                 <div class="main-slider-one__link">
-                                    <a href="services.html" class="main-slider-one__link__btn ostech-btn">Discover
-                                        More</a>
+                                    <a href="#" class="main-slider-one__link__btn ostech-btn">Hívás most</a>
                                 </div>
                             </div>
                         </div>
@@ -143,9 +140,11 @@
                         <img src="assets/images/service/service-2-1.png" alt="ostech image">
                     </div>
                     <div class="service-one__item__content">
-                        <h4 class="service-one__item__title"><a href="service-d-development.html">Manage IT
-                                Service</a></h4>
-                        <p class="service-one__item__text">There are many variations of passages of Lorem Ipsum
+                        <h4 class="service-one__item__title"><a>BIZTONSÁGKEZELÉS
+                                IGÉNYEIRE SZABVA</a></h4>
+                        <p class="service-one__item__text">Minden esemény egyedi, és mi ezt komolyan vesszük. Személyre
+                            szabott biztonsági megoldásainkkal
+                            biztosítjuk a nyugalmat.
                         </p>
                     </div>
                 </div>
@@ -159,9 +158,10 @@
                         <img src="assets/images/service/service-2-2.png" alt="ostech image">
                     </div>
                     <div class="service-one__item__content">
-                        <h4 class="service-one__item__title"><a href="service-d-development.html">Cyber
-                                Security</a></h4>
-                        <p class="service-one__item__text">There are many variations of passages of Lorem Ipsum
+                        <h4 class="service-one__item__title"><a>VÉDELEM A DIGITÁLIS TÉRBEN ÉS AZON TÚL
+                            </a></h4>
+                        <p class="service-one__item__text">A biztonság nem áll meg a fizikai térben. Szakértő csapatunk
+                            a kibervilágban is óvja Ügyfeleink adatait és érdekeit.
                         </p>
                     </div>
                 </div>
@@ -175,9 +175,11 @@
                         <img src="assets/images/service/service-2-3.png" alt="ostech image">
                     </div>
                     <div class="service-one__item__content">
-                        <h4 class="service-one__item__title"><a href="service-d-marketing.html">Digital
-                                Experience</a></h4>
-                        <p class="service-one__item__text">There are many variations of passages of Lorem Ipsum
+                        <h4 class="service-one__item__title"><a>KOMPLEX VÉDELEM,
+                                KIFINOMULT MEGOLDÁSOKKAL
+                            </a></h4>
+                        <p class="service-one__item__text">Az élmény és a biztonság kéz a kézben jár. Legyen szó
+                            falunapról, koncertről vagy bármilyen szabadtéri eseményről.
                         </p>
                     </div>
                 </div>
@@ -210,7 +212,7 @@
                             <span class="count-text" data-stop="30" data-speed="1500"></span>
                             <span>+</span>
                         </h2>
-                        <p class="about-one__funfact__item__text">Year experience</p>
+                        <p class="about-one__funfact__item__text">ÉVNYI TAPASZTALAT</p>
                     </div>
 
                     <div class="about-one__shape-two">
@@ -224,13 +226,15 @@
                         <div class="sec-title  wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
                             <div class="d-flex align-items-center justify-content-start">
                                 <img src="assets/images/shapes/sec-title-s-1.png" alt="About Us" class="sec-title__img">
-                                <h6 class="sec-title__tagline">About Us</h6>
+                                <h6 class="sec-title__tagline">Rólunk</h6>
                             </div>
-                            <h3 class="sec-title__title">Provide the Best Easy Solution for Your IT Problem</h3>
+                            <h3 class="sec-title__title">A BIZTONSÁG ÉLVONALÁBAN</h3>
                         </div>
-                        <p class="about-one__top__text">There are many variations of passages of Lorem Ipsum
-                            avalable, but the majority have suffered alteration in some form, by injected humour,
-                            or randomised words which don't look even slightly believable.</p>
+                        <p class="about-one__top__text">Biztonsági szolgáltatásunk nem ismer kompromisszumokat. Legyen
+                            szó kis létszámú magánrendezvényről vagy nagyszabású közösségi eseményről, mi biztosítjuk,
+                            hogy minden részletre kiterjedő védelem álljon rendelkezésre. Kaposváron és környékén több
+                            évtizedes szakmai tapasztalattal.
+                        </p>
                     </div>
                     <div class="about-one__feature">
                         <div class="about-one__feature__item wow fadeInUp" data-wow-delay="500ms">
@@ -241,10 +245,12 @@
                                     </div>
                                 </div>
                                 <div class="about-one__feature__item__content">
-                                    <h4 class="about-one__feature__item__title"><a href="about.html">Manage Tech
-                                            Services</a></h4>
-                                    <p class="about-one__feature__item__text">There are in many passages of Lorem
-                                        Ipsum available</p>
+                                    <h4 class="about-one__feature__item__title"><a>TECHNIKAI
+                                            SZAKÉRTELEM, AMI VÉDELMET NYÚJT
+                                        </a></h4>
+                                    <p class="about-one__feature__item__text">Fejlett eszközparkunkkal és képzett
+                                        személyzetünkkel biztosítjuk az események technikai zavartalanságát.
+                                    </p>
                                 </div>
                                 <div class="about-one__feature__item__thumb">
                                     <img src="assets/images/about/about-s-1-1.png" alt="ostech image">
@@ -259,10 +265,11 @@
                                     </div>
                                 </div>
                                 <div class="about-one__feature__item__content">
-                                    <h4 class="about-one__feature__item__title"><a href="about.html">It
-                                            Consulting</a></h4>
-                                    <p class="about-one__feature__item__text">There are in many passages of Lorem
-                                        Ipsum available</p>
+                                    <h4 class="about-one__feature__item__title"><a>KÖRÜLTEKINTŐ IT BIZTONSÁGI
+                                            TANÁCSADÁS</a></h4>
+                                    <p class="about-one__feature__item__text">Személyre szabott megközelítésünkkel és
+                                        mélyreható piaci ismereteinkkel.
+                                    </p>
                                 </div>
                                 <div class="about-one__feature__item__thumb">
                                     <img src="assets/images/about/about-s-1-2.png" alt="ostech image">
@@ -271,16 +278,17 @@
                         </div>
                     </div>
                     <ul class="about-one__list list-unstyled wow fadeInUp" data-wow-delay="500ms">
-                        <li class="about-one__list__item"><i class="fas fa-check-circle"></i>Many variations of
-                            passages of lorem ipsum</li>
-                        <li class="about-one__list__item"><i class="fas fa-check-circle"></i>Many variations of
-                            passages of lorem</li>
-                        <li class="about-one__list__item"><i class="fas fa-check-circle"></i>Expert many
-                            variations teacher</li>
+                        <li class="about-one__list__item"><i class="fas fa-check-circle"></i>Legújabb biztonságtechnikai
+                            eszközök</li>
+                        <li class="about-one__list__item"><i class="fas fa-check-circle"></i>Digitális kockázatfelismerő
+                            rendszerek
+                        </li>
+                        <li class="about-one__list__item"><i class="fas fa-check-circle"></i>Integrált biztonsági
+                            megoldások</li>
                     </ul>
                     <div class="about-one__link wow fadeInUp" data-wow-delay="500ms">
-                        <a href="about.html" class="about-one__link__btn ostech-btn ostech-btn--secondary">Discover
-                            More</a>
+                        <a href="#" class="about-one__link__btn ostech-btn ostech-btn--secondary">Hívás
+                            most</a>
                     </div>
                 </div>
             </div>
@@ -301,9 +309,10 @@
                 <div class="sec-title text-center wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='300ms'>
                     <div class="d-flex align-items-center justify-content-center">
                         <img src="assets/images/shapes/sec-title-s-1.png" alt="Service" class="sec-title__img">
-                        <h6 class="sec-title__tagline">Service</h6>
+                        <h6 class="sec-title__tagline">Szolgáltatás</h6>
                     </div>
-                    <h3 class="sec-title__title">Services We’re Providing to <br> Our Customers</h3>
+                    <h3 class="sec-title__title">SZOLGÁLTATÁSOK, <br> MELYEK BIZTONSÁGOT GARANTÁLNAK
+                    </h3>
                 </div>
             </div>
         </div>
@@ -312,8 +321,7 @@
                 <div class="service-card-two  wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='500ms'>
                     <div class="service-card-two__inner">
                         <div class="service-card-two__content">
-                            <h4 class="service-card-two__title"><a href="service-d-development.html">Product <br>
-                                    Development</a></h4>
+                            <h4 class="service-card-two__title"><a>RENDEZVÉNYBIZTONSÁG</a></h4>
                             <div class="service-card-two__icon">
                                 <i class="icon-software-1"></i>
                             </div>
@@ -328,8 +336,7 @@
                 <div class="service-card-two  wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='700ms'>
                     <div class="service-card-two__inner">
                         <div class="service-card-two__content">
-                            <h4 class="service-card-two__title"><a href="service-d-design.html">UI/UX <br>
-                                    Designing</a></h4>
+                            <h4 class="service-card-two__title"><a>SZEMÉLYVÉDELEM</a></h4>
                             <div class="service-card-two__icon">
                                 <i class="icon-layer-1"></i>
                             </div>
@@ -344,8 +351,8 @@
                 <div class="service-card-two  wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='900ms'>
                     <div class="service-card-two__inner">
                         <div class="service-card-two__content">
-                            <h4 class="service-card-two__title"><a href="service-d-marketing.html">Digital <br>
-                                    Marketing</a></h4>
+                            <h4 class="service-card-two__title"><a>INGATLANBIZTONSÁG</a>
+                            </h4>
                             <div class="service-card-two__icon">
                                 <i class="icon-digital-marketing-1"></i>
                             </div>
@@ -360,8 +367,9 @@
                 <div class="service-card-two  wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='1100ms'>
                     <div class="service-card-two__inner">
                         <div class="service-card-two__content">
-                            <h4 class="service-card-two__title"><a href="service-d-analysis.html">Data <br>
-                                    Analysis</a></h4>
+                            <h4 class="service-card-two__title"><a>KOCKÁZATELEMZÉS <br> ÉS
+                                    TANÁCSADÁS
+                                </a></h4>
                             <div class="service-card-two__icon">
                                 <i class="icon-analysis-1"></i>
                             </div>
@@ -390,9 +398,9 @@
                     </div>
                     <h2 class="why-choose-two__funfact__item__count">
                         <span class="count-text" data-stop="120" data-speed="1500"></span>
-                        <span>K</span>
+                        <span>EZER</span>
                     </h2>
-                    <p class="why-choose-two__funfact__item__text">Satisfied <br> Clients</p>
+                    <p class="why-choose-two__funfact__item__text">Elégedett <br> Ügyfél</p>
                     <div class="why-choose-two__funfact__item__shape">
                         <img src="assets/images/shapes/funfact-1-1.png" alt>
                     </div>
@@ -405,9 +413,10 @@
                     </div>
                     <h2 class="why-choose-two__funfact__item__count">
                         <span class="count-text" data-stop="30" data-speed="1500"></span>
-                        <span>K</span>
+                        <span>EZER</span>
                     </h2>
-                    <p class="why-choose-two__funfact__item__text">Projects <br> completed</p>
+                    <p class="why-choose-two__funfact__item__text">Sikeresen <br> Lezárt Projekt
+                    </p>
                     <div class="why-choose-two__funfact__item__shape">
                         <img src="assets/images/shapes/funfact-1-1.png" alt>
                     </div>
@@ -420,9 +429,9 @@
                     </div>
                     <h2 class="why-choose-two__funfact__item__count">
                         <span class="count-text" data-stop="500" data-speed="1500"></span>
-                        <span>K</span>
+                        <span>EZER</span>
                     </h2>
-                    <p class="why-choose-two__funfact__item__text">Five Star <br> Review</p>
+                    <p class="why-choose-two__funfact__item__text">Ötcsillagos<br> Értékelés</p>
                     <div class="why-choose-two__funfact__item__shape">
                         <img src="assets/images/shapes/funfact-1-1.png" alt>
                     </div>
@@ -437,7 +446,7 @@
                         <span class="count-text" data-stop="90" data-speed="1500"></span>
                         <span>+</span>
                     </h2>
-                    <p class="why-choose-two__funfact__item__text">Pro Team<br> Member</p>
+                    <p class="why-choose-two__funfact__item__text">Profi Csapat<br> Tag</p>
                     <div class="why-choose-two__funfact__item__shape">
                         <img src="assets/images/shapes/funfact-1-1.png" alt>
                     </div>
@@ -453,17 +462,18 @@
                             <div class="d-flex align-items-center justify-content-start">
                                 <img src="assets/images/shapes/sec-title-s-1.png" alt="Why Choose Us"
                                     class="sec-title__img">
-                                <h6 class="sec-title__tagline">Why Choose Us</h6>
+                                <h6 class="sec-title__tagline">Miért válasszon minket ?</h6>
                             </div>
-                            <h3 class="sec-title__title">Why Our Technology Solutions Company Stands Out?</h3>
+                            <h3 class="sec-title__title">MIÉRT VÁLASSZA BIZTONSÁGI SZOLGÁLTATÁSAINKAT?</h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="why-choose-two__top__right wow fadeInUp" data-wow-delay="900ms">
-                        <p class="about-two__top__text">There are many variations of passages of Lorem Ipsum
-                            avalable, but the majority have suffered alteration in some form, by injected humour,
-                            or randomised words which don't look even slightly believable. </p>
+                        <p class="about-two__top__text">A Kaposvári Biztonsági Szolgálat elkötelezetten véd minden egyes
+                            Ügyfelét. Több évtizedes tapasztalattal a hátunk mögött büszkén állíthatjuk, hogy
+                            szolgáltatásaink nem csak elvárásokat teljesítenek, de azokat rendszeresen felülmúlják.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -475,8 +485,9 @@
                                 <div class="why-choose-two__inner__item__icon">
                                     <i class="icon-it-1"></i>
                                 </div>
-                                <h4 class="why-choose-two__inner__item__text">We’re Navigating IT Solutions with
-                                    Precision and best Excellence</h4>
+                                <h4 class="why-choose-two__inner__item__text">
+                                    PONTOS VÉDELEM, ELISMERT SZAKÉRTELEM
+                                </h4>
                             </div>
                             <div class="why-choose-two__inner__item__link">
                                 <a href="contact.html" class="why-choose-two__inner__item__link__btn">
@@ -489,8 +500,9 @@
                                 <div class="why-choose-two__inner__item__icon">
                                     <i class="icon-future-1"></i>
                                 </div>
-                                <h4 class="why-choose-two__inner__item__text">We’re Resolving Your Technology
-                                    Woes with Expert Care</h4>
+                                <h4 class="why-choose-two__inner__item__text">SZAKÉRTELEMMEL KEZELJÜK A
+                                    BIZTONSÁGI KÉRDÉSEKET
+                                </h4>
                             </div>
                             <div class="why-choose-two__inner__item__link">
                                 <a href="contact.html" class="why-choose-two__inner__item__link__btn">
@@ -511,11 +523,11 @@
                     <div class="why-choose-two__cta wow fadeInUp" data-wow-delay="900ms">
                         <div class="why-choose-two__cta__bg"
                             style="background-image: url(assets/images/shapes/cta-2-1.png);"></div>
-                        <h3 class="why-choose-two__cta__title">Get The Best source for IT solutions and Service
+                        <h3 class="why-choose-two__cta__title">Legyen részese a biztonságos környezetnek
                         </h3>
                         <div class="why-choose-two__cta__link">
-                            <a href="" class="why-choose-two__cta__link__btn ostech-btn ostech-btn--secondary">Get In
-                                Touch</a>
+                            <a href="" class="why-choose-two__cta__link__btn ostech-btn ostech-btn--secondary">E-mail
+                                küldése</a>
                         </div>
                     </div>
                 </div>
@@ -671,9 +683,10 @@
                             <div class="d-flex align-items-center justify-content-start">
                                 <img src="assets/images/shapes/sec-title-s-1.png" alt="Our Benefits"
                                     class="sec-title__img">
-                                <h6 class="sec-title__tagline">Our Benefits</h6>
+                                <h6 class="sec-title__tagline">Előnyeink</h6>
                             </div>
-                            <h3 class="sec-title__title">We’re The Stand Out Expert In Tech Business</h3>
+                            <h3 class="sec-title__title">Kiemelkedünk a biztonsági szakértelem terén
+                            </h3>
                         </div>
                     </div>
                     <div class="benefit-one__feature">
@@ -684,10 +697,10 @@
                                 <div class="benefit-one__feature__icon">
                                     <i class="icon-solution-1"></i>
                                 </div>
-                                <h4 class="benefit-one__feature__item__title"><a href="about.html">Deliver
-                                        Perfect Solution</a></h4>
-                                <p class="benefit-one__feature__item__text">There are in many passages of Lorem
-                                    Ipsum available.</p>
+                                <h4 class="benefit-one__feature__item__title"><a>Tökéletes biztonsági megoldások
+                                    </a></h4>
+                                <p class="benefit-one__feature__item__text">Biztosítjuk, hogy minden biztonsági
+                                    kihívásra tökéletes megoldást nyújtsunk. </p>
                             </div>
                         </div>
                         <div class="benefit-one__feature__item  wow fadeInUp" data-wow-delay="700ms">
@@ -697,26 +710,30 @@
                                 <div class="benefit-one__feature__icon">
                                     <i class="icon-interactive-1"></i>
                                 </div>
-                                <h4 class="benefit-one__feature__item__title"><a href="about.html">Latest AI
-                                        Technology</a></h4>
-                                <p class="benefit-one__feature__item__text">There are in many passages of Lorem
-                                    Ipsum available.</p>
+                                <h4 class="benefit-one__feature__item__title"><a>Legújabb biztonsági technológiák
+                                    </a></h4>
+                                <p class="benefit-one__feature__item__text">Folyamatosan frissítjük technológiánkat,
+                                    beleértve a legújabb megfigyelő és riasztó rendszereket</p>
                             </div>
                         </div>
                     </div>
                     <ul class="list-unstyled benefit-one__list  wow fadeInUp" data-wow-delay="500ms">
-                        <li class="benefit-one__list__item"><i class="fas fa-check-circle"></i> Many Variations
-                            of Passages of Lorem Ipsum</li>
-                        <li class="benefit-one__list__item"><i class="fas fa-check-circle"></i> Many Variations
-                            of Passages of Lorem</li>
-                        <li class="benefit-one__list__item"><i class="fas fa-check-circle"></i> Expert Many
-                            Variations Teacher</li>
+                        <li class="benefit-one__list__item"><i class="fas fa-check-circle"></i>Széleskörű Biztonsági
+                            Szolgáltatások</li>
+                        <li class="benefit-one__list__item"><i class="fas fa-check-circle"></i> Személyre Szabott
+                            Védelmi Stratégiák
+
+                        </li>
+                        <li class="benefit-one__list__item"><i class="fas fa-check-circle"></i>Elismert Biztonsági
+                            Szakemberek
+
+                        </li>
                     </ul>
                 </div>
                 <div class="benefit-one__bottom  wow fadeInUp" data-wow-delay="500ms">
                     <div class="benefit-one__bottom__content">
-                        <h3 class="benefit-one__bottom__content__text">Your Trusted IT Service Partner</h3>
-                        <a href="" class="ostech-btn">Get In Touch</a>
+                        <h3 class="benefit-one__bottom__content__text">Megbízható Biztonsági Partner</h3>
+                        <a href="#" class="ostech-btn">Hívás most</a>
                     </div>
                 </div>
             </div>
@@ -773,7 +790,7 @@
                 <div class="sec-title text-center wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
                     <div class="d-flex align-items-center justify-content-center">
                         <img src="assets/images/shapes/sec-title-s-1.png" alt="Latest Project" class="sec-title__img">
-                        <h6 class="sec-title__tagline">Latest Project</h6>
+                        <h6 class="sec-title__tagline">Legújabb projekt</h6>
                     </div>
                     <h3 class="sec-title__title">Our Recently Completed <br> Latest Projects</h3>
                 </div>
@@ -1001,8 +1018,7 @@
                         <i class="icon-shield-2"></i>
                     </div>
                     <div class="cta-two__item__content">
-                        <h3 class="cta-two__item__title">Internet & Cyber Security Solutions</h3>
-                        <a href="contact.html" class="cta-two__item__btn ostech-btn">Discover More</a>
+                        <h3 class="cta-two__item__title">VÉDELEM ÉS BIZTONSÁGI MEGOLDÁSOK</h3>
                     </div>
                     <div class="cta-two__item__shape">
                         <img src="assets/images/shapes/cta-shape.png" alt="ostech image">
@@ -1015,8 +1031,7 @@
                         <i class="icon-quality-2"></i>
                     </div>
                     <div class="cta-two__item__content">
-                        <h3 class="cta-two__item__title">Expert IT <br> Specialists Available</h3>
-                        <a href="contact.html" class="cta-two__item__btn ostech-btn">Discover More</a>
+                        <h3 class="cta-two__item__title">EXPERT BIZTONSÁGI SZAKÉRTŐK ELÉRHETŐK</h3>
                     </div>
                     <div class="cta-two__item__shape">
                         <img src="assets/images/shapes/cta-shape.png" alt="ostech image">
