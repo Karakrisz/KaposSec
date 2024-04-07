@@ -15,8 +15,7 @@
         <!-- Slider Item  -->
         <div class="item">
             <div class="main-slider-one__item">
-                <div class="main-slider-one__bg"
-                    style="background-image: url(assets/images/backgrounds/slider-1-1.jpg);"></div>
+                <div class="main-slider-one__bg" style="background-image: url(Boaz/img/slider/slider.webp);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
@@ -24,7 +23,7 @@
                                 <h5 class="main-slider-one__sub-title"><span>MEGBÍZHATÓ VÉDELEM
                                     </span></h5>
                                 <h2 class="main-slider-one__title">
-                                    A BIZTONSÁG NEM LUXUS, HANEM ALAPVETŐ JOG
+                                    ÉRTÉKET TEREMTÜNK ÉS ÉRTÉKET VÉDÜNK
                                     <span class="main-slider-one__title__overlay-group">
                                         <span class="main-slider-one__title__overlay"></span>
                                         <span class="main-slider-one__title__overlay"></span>
@@ -52,8 +51,7 @@
         <!-- Slider Item  -->
         <div class="item">
             <div class="main-slider-one__item">
-                <div class="main-slider-one__bg"
-                    style="background-image: url(assets/images/backgrounds/slider-1-2.jpg);"></div>
+                <div class="main-slider-one__bg" style="background-image: url(Boaz/img/slider/slider2.webp);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
@@ -61,7 +59,7 @@
                                 <h5 class="main-slider-one__sub-title"><span>MEGBÍZHATÓ VÉDELEM
                                     </span></h5>
                                 <h2 class="main-slider-one__title">
-                                    A BIZTONSÁG NEM LUXUS, HANEM ALAPVETŐ JOG
+                                    ÉRTÉKET TEREMTÜNK ÉS ÉRTÉKET VÉDÜNK
                                     <span class="main-slider-one__title__overlay-group">
                                         <span class="main-slider-one__title__overlay"></span>
                                         <span class="main-slider-one__title__overlay"></span>
@@ -89,8 +87,7 @@
         <!-- Slider Item  -->
         <div class="item">
             <div class="main-slider-one__item">
-                <div class="main-slider-one__bg"
-                    style="background-image: url(assets/images/backgrounds/slider-1-1.jpg);"></div>
+                <div class="main-slider-one__bg" style="background-image: url(Boaz/img/slider/slider3.webp);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
@@ -128,7 +125,7 @@
 <!-- main-slider-end -->
 
 <!-- Service section Start -->
-<section class="service-one">
+<section class="service-one" id="rolunk">
     <div class="container">
         <div class="row gutter-y-40">
             <div class="col-lg-4 col-md-6">
@@ -137,7 +134,7 @@
                         <i class="icon-infrastructure-1"></i>
                     </div>
                     <div class="service-one__item__thumb">
-                        <img src="assets/images/service/service-2-1.png" alt="ostech image">
+                        <img src="Boaz/img/about/about.webp" alt="ostech image">
                     </div>
                     <div class="service-one__item__content">
                         <h4 class="service-one__item__title"><a>BIZTONSÁGKEZELÉS
@@ -155,7 +152,7 @@
                         <i class="icon-cyber-security-1-1"></i>
                     </div>
                     <div class="service-one__item__thumb">
-                        <img src="assets/images/service/service-2-2.png" alt="ostech image">
+                        <img src="Boaz/img/about/about2.webp" alt="ostech image">
                     </div>
                     <div class="service-one__item__content">
                         <h4 class="service-one__item__title"><a>VÉDELEM A DIGITÁLIS TÉRBEN ÉS AZON TÚL
@@ -172,7 +169,7 @@
                         <i class="icon-technology-1"></i>
                     </div>
                     <div class="service-one__item__thumb">
-                        <img src="assets/images/service/service-2-3.png" alt="ostech image">
+                        <img src="Boaz/img/about/about3.webp" alt="ostech image">
                     </div>
                     <div class="service-one__item__content">
                         <h4 class="service-one__item__title"><a>KOMPLEX VÉDELEM,
@@ -197,10 +194,10 @@
                 <div class="about-one__left wow fadeInLeft" data-wow-delay="500ms">
                     <div class="about-one__thumb">
                         <div class="about-one__thumb__item">
-                            <img src="assets/images/about/about-1-1.png" alt="ostech image">
+                            <img src="Boaz/img/about/about11.webp" alt="ostech image">
                         </div>
                         <div class="about-one__thumb__item about-one__thumb__item--two">
-                            <img src="assets/images/about/about-1-2.png" alt="ostech image">
+                            <img src="Boaz/img/about/about12.webp" alt="ostech image">
                         </div>
                     </div>
 
@@ -301,7 +298,7 @@
 <!-- About section End -->
 
 <!-- Service section Start -->
-<section class="service-page service-page--page">
+<section class="service-page service-page--page" id="szolgaltatasok">
     <div class="service-page__bg" style="background-image: url(assets/images/shapes/service-2-1.png);"></div>
     <div class="container">
         <div class="row">
@@ -321,13 +318,13 @@
                 <div class="service-card-two  wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='500ms'>
                     <div class="service-card-two__inner">
                         <div class="service-card-two__content">
-                            <h4 class="service-card-two__title"><a>RENDEZVÉNYBIZTONSÁG</a></h4>
+                            <h4 class="service-card-two__title"><a>RENDEZVÉNYBIZTOSÍTÁS</a></h4>
                             <div class="service-card-two__icon">
                                 <i class="icon-software-1"></i>
                             </div>
                         </div>
                         <div class="service-card-two__thumb">
-                            <img src="assets/images/service/service-1-1.png" alt="ostech image">
+                            <img src="Boaz/img/about/about4.webp" alt="ostech image">
                         </div>
                     </div>
                 </div>
@@ -342,7 +339,7 @@
                             </div>
                         </div>
                         <div class="service-card-two__thumb">
-                            <img src="assets/images/service/service-1-2.png" alt="ostech image">
+                            <img src="Boaz/img/about/about5.webp" alt="ostech image">
                         </div>
                     </div>
                 </div>
@@ -351,14 +348,14 @@
                 <div class="service-card-two  wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='900ms'>
                     <div class="service-card-two__inner">
                         <div class="service-card-two__content">
-                            <h4 class="service-card-two__title"><a>INGATLANBIZTONSÁG</a>
+                            <h4 class="service-card-two__title"><a>OBJEKTUMVÉDELEM</a>
                             </h4>
                             <div class="service-card-two__icon">
                                 <i class="icon-digital-marketing-1"></i>
                             </div>
                         </div>
                         <div class="service-card-two__thumb">
-                            <img src="assets/images/service/service-1-3.png" alt="ostech image">
+                            <img src="Boaz/img/about/about6.webp" alt="ostech image">
                         </div>
                     </div>
                 </div>
@@ -375,7 +372,71 @@
                             </div>
                         </div>
                         <div class="service-card-two__thumb">
-                            <img src="assets/images/service/service-1-4.png" alt="ostech image">
+                            <img src="Boaz/img/about/about7.webp" alt="ostech image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="service-card-two  wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='1100ms'>
+                    <div class="service-card-two__inner">
+                        <div class="service-card-two__content">
+                            <h4 class="service-card-two__title"><a>SPORTRENDEZVÉNYEK BIZTOSÍTÁSA
+                                </a></h4>
+                            <div class="service-card-two__icon">
+                                <i class="icon-analysis-1"></i>
+                            </div>
+                        </div>
+                        <div class="service-card-two__thumb">
+                            <img src="Boaz/img/about/about16.webp" alt="ostech image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="service-card-two  wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='1100ms'>
+                    <div class="service-card-two__inner">
+                        <div class="service-card-two__content">
+                            <h4 class="service-card-two__title"><a>TELEPHELY ŐRZÉS
+                                </a></h4>
+                            <div class="service-card-two__icon">
+                                <i class="icon-analysis-1"></i>
+                            </div>
+                        </div>
+                        <div class="service-card-two__thumb">
+                            <img src="Boaz/img/about/about17.webp" alt="ostech image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="service-card-two  wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='1100ms'>
+                    <div class="service-card-two__inner">
+                        <div class="service-card-two__content">
+                            <h4 class="service-card-two__title"><a>RENDÉSZETI - RECEPCIÓS SZOLGÁLAT
+                                </a></h4>
+                            <div class="service-card-two__icon">
+                                <i class="icon-analysis-1"></i>
+                            </div>
+                        </div>
+                        <div class="service-card-two__thumb">
+                            <img src="Boaz/img/about/about18.webp" alt="ostech image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="service-card-two  wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='1100ms'>
+                    <div class="service-card-two__inner">
+                        <div class="service-card-two__content">
+                            <h4 class="service-card-two__title"><a>EGYEDI IGÉNYEK TELJESÍTÉSE
+                                </a></h4>
+                            <div class="service-card-two__icon">
+                                <i class="icon-analysis-1"></i>
+                            </div>
+                        </div>
+                        <div class="service-card-two__thumb">
+                            <img src="Boaz/img/about/about19.webp" alt="ostech image">
                         </div>
                     </div>
                 </div>
@@ -388,7 +449,7 @@
 <!-- why-choose-two section Start -->
 <section class="why-choose-two">
     <div class="why-choose-two__bg jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% -100%"
-        style="background-image: url(assets/images/backgrounds/why-choose-bg-1-1.png);"></div>
+        style="background-image: url(Boaz/img/about/about8.webp);"></div>
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6">
@@ -470,7 +531,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="why-choose-two__top__right wow fadeInUp" data-wow-delay="900ms">
-                        <p class="about-two__top__text">A Kaposvári Biztonsági Szolgálat elkötelezetten véd minden egyes
+                        <p class="about-two__top__text">A KLI-SEC KAPOS TEAM elkötelezetten véd minden egyes
                             Ügyfelét. Több évtizedes tapasztalattal a hátunk mögött büszkén állíthatjuk, hogy
                             szolgáltatásaink nem csak elvárásokat teljesítenek, de azokat rendszeresen felülmúlják.
                         </p>
@@ -490,7 +551,7 @@
                                 </h4>
                             </div>
                             <div class="why-choose-two__inner__item__link">
-                                <a href="contact.html" class="why-choose-two__inner__item__link__btn">
+                                <a href="#kapcsolat" class="why-choose-two__inner__item__link__btn">
                                     <i class="icon-arrow-left"></i>
                                 </a>
                             </div>
@@ -505,7 +566,7 @@
                                 </h4>
                             </div>
                             <div class="why-choose-two__inner__item__link">
-                                <a href="contact.html" class="why-choose-two__inner__item__link__btn">
+                                <a href="#kapcsolat" class="why-choose-two__inner__item__link__btn">
                                     <i class="icon-arrow-left"></i>
                                 </a>
                             </div>
@@ -515,7 +576,7 @@
                 <div class="col-lg-6">
                     <div class="why-choose-two__inner__right wow fadeInRight" data-wow-delay="900ms">
                         <div class="why-choose-two__inner__thumb ostech-stretch-element-inside-column">
-                            <img src="assets/images/resources/why-choos-us-2-1.png" alt="ostech image">
+                            <img src="Boaz/img/about/about9.webp" alt="ostech image">
                         </div>
                     </div>
                 </div>
@@ -671,7 +732,7 @@
             <div class="col-lg-6">
                 <div class="benefit-one__left">
                     <div class="benefit-one__thumb  wow fadeInLeft" data-wow-delay="700ms">
-                        <img src="assets/images/resources/benefit-1-1.png" alt="ostech image">
+                        <img src="Boaz/img/about/about10.webp" alt="ostech image">
                     </div>
                 </div>
             </div>
@@ -691,8 +752,7 @@
                     </div>
                     <div class="benefit-one__feature">
                         <div class="benefit-one__feature__item  wow fadeInUp" data-wow-delay="500ms">
-                            <div class="benefit-one__feature__item__bg"
-                                style="background-image: url(assets/images/resources/benefit-s-1-1.png);"></div>
+                            <div class="benefit-one__feature__item__bg"></div>
                             <div class=" benefit-one__feature__item__content">
                                 <div class="benefit-one__feature__icon">
                                     <i class="icon-solution-1"></i>
@@ -704,8 +764,7 @@
                             </div>
                         </div>
                         <div class="benefit-one__feature__item  wow fadeInUp" data-wow-delay="700ms">
-                            <div class="benefit-one__feature__item__bg"
-                                style="background-image: url(assets/images/resources/benefit-s-1-2.png);"></div>
+                            <div class="benefit-one__feature__item__bg"></div>
                             <div class=" benefit-one__feature__item__content">
                                 <div class="benefit-one__feature__icon">
                                     <i class="icon-interactive-1"></i>
@@ -750,32 +809,32 @@
     <div class="text-slider__inner">
         <div class="text-slider__carousel">
             <div class="text-slider__carousel__item">
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Modern Technology
-                    service</div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Deliver Perfect
-                    Solution</div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Latest AI Technology
-                </div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Digital Marketing
-                </div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Navigating IT
-                    Solutions</div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Manage Tech Services
-                </div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> It Consulting</div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Modern Technology
-                    service</div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Deliver Perfect
-                    Solution</div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Latest AI Technology
-                </div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Digital Marketing
-                </div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Navigating IT
-                    Solutions</div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Manage Tech Services
-                </div>
-                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> It Consulting</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Személyre Szabott
+                    Biztonsági Megoldások</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Rendezvények Teljeskörű
+                    Biztosítása</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Profi Személyvédelmi
+                    Szolgálat</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Kiterjedt Ingatlanvédelmi
+                    Rendszerek</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Speciális Eseménybiztonsági
+                    Szolgáltatások</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Kockázatelemzés és Védelmi
+                    Tanácsadás</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Vagyonvédelmi és Őrzési
+                    Szolgáltatások</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Elismert Biztonsági
+                    Szakértőink</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Hatékony Biztonságtechnikai
+                    Megoldások</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Gyorsreagálású Biztonsági
+                    Szolgálat</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Megbízható Vagyonvédelmi
+                    Szakemberek</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Távfelügyeleti Biztonsági
+                    Szolgáltatások</div>
+                <div class="text-slider__item"><img src="assets/images/shapes/star.png" alt> Szigorúan Ellenőrzött
+                    Biztonsági Protokollok</div>
             </div>
         </div>
     </div>
@@ -792,49 +851,47 @@
                         <img src="assets/images/shapes/sec-title-s-1.png" alt="Latest Project" class="sec-title__img">
                         <h6 class="sec-title__tagline">Legújabb projekt</h6>
                     </div>
-                    <h3 class="sec-title__title">Our Recently Completed <br> Latest Projects</h3>
+                    <h3 class="sec-title__title">Legutóbbi Sikeres <br> Biztonsági Projektek
+                    </h3>
                 </div>
             </div>
         </div>
         <div class="horizontal-project">
             <div class="project-one__item choice">
-                <div class="project-one__item__bg"
-                    style="background-image: url(assets/images/about/project-bg-1-1.png);"></div>
+                <div class="project-one__item__bg" style="background-image: url(Boaz/img/about/about15.webp);"></div>
                 <div class="project-one__item__inner">
                     <div class="project-one__thumb">
-                        <img src="assets/images/about/project-1-1.png" alt="ostech image">
+                        <img src="Boaz/img/about/about15.webp" alt="ostech image">
                     </div>
                     <div class="project-one__content">
-                        <h3 class="project-one__content__title">UI/UX Development</h3>
-                        <p class="project-one__content__text">Technology</p>
+                        <h3 class="project-one__content__title">Final Foure Női Kosárlabda</h3>
+                        <p class="project-one__content__text">Rendezvénybiztonság</p>
                         <a href="contact.html" class="project-one__content__btn"><i class="icon-right-arrow"></i></a>
                     </div>
                 </div>
             </div>
             <div class="project-one__item choice expand">
-                <div class="project-one__item__bg"
-                    style="background-image: url(assets/images/about/project-bg-1-2.png);"></div>
+                <div class="project-one__item__bg" style="background-image: url(Boaz/img/about/about13.webp);"></div>
                 <div class="project-one__item__inner">
                     <div class="project-one__thumb">
-                        <img src="assets/images/about/project-1-2.png" alt="ostech image">
+                        <img src="Boaz/img/about/about13.webp" alt="ostech image">
                     </div>
                     <div class="project-one__content">
-                        <h3 class="project-one__content__title">Digital Marketing</h3>
-                        <p class="project-one__content__text">Marketing</p>
+                        <h3 class="project-one__content__title">Soproni Városnapok</h3>
+                        <p class="project-one__content__text">Rendezvénybiztonság</p>
                         <a href="contact.html" class="project-one__content__btn"><i class="icon-right-arrow"></i></a>
                     </div>
                 </div>
             </div>
             <div class="project-one__item choice">
-                <div class="project-one__item__bg"
-                    style="background-image: url(assets/images/about/project-bg-1-3.png);"></div>
+                <div class="project-one__item__bg" style="background-image: url(Boaz/img/about/about14.webp);"></div>
                 <div class="project-one__item__inner">
                     <div class="project-one__thumb">
-                        <img src="assets/images/about/project-1-3.png" alt="ostech image">
+                        <img src="Boaz/img/about/about14.webp" alt="ostech image">
                     </div>
                     <div class="project-one__content">
-                        <h3 class="project-one__content__title">Cyber Security</h3>
-                        <p class="project-one__content__text">Security</p>
+                        <h3 class="project-one__content__title">Bírkózó Európa-bajnokság <br> Kaposvári Aréna</h3>
+                        <p class="project-one__content__text">Rendezvénybiztonság</p>
                         <a href="contact.html" class="project-one__content__btn"><i class="icon-right-arrow"></i></a>
                     </div>
                 </div>

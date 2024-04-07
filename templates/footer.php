@@ -1,11 +1,11 @@
-<footer class="main-footer">
+<footer class="main-footer" id="kapcsolat">
 
     <div class="main-footer__top">
         <div class="container">
             <div class="main-footer__top__inner">
                 <div class="main-footer__top__logo">
                     <a href="index.html" class="footer__logo ostech-logo">
-                        <img src="assets/images/logo-light.png" width="120" alt="Ostech HTML Template">
+                        <img src="Boaz/img/logo.svg" width="120" alt="Ostech HTML Template">
                     </a>
                 </div>
                 <div class="main-footer__top__social">
@@ -27,9 +27,11 @@
             <div class="row">
                 <div class="col-md-6 col-xl-4">
                     <div class="footer-widget footer-widget--about">
-                        <h2 class="footer-widget__title">about</h2>
-                        <p class="footer-widget__text">There are many variations passages <br> of Lorem Ipsum available,
-                            but the majority have suffered alteration </p>
+                        <h2 class="footer-widget__title">RÓLUNK</h2>
+                        <p class="footer-widget__text">A KLI-SEC KAPOS TEAM-t a megbízhatóság, szakértelem
+                            és az elkötelezettség jellemzi. Célunk, hogy Kaposvár és környékén a legmagasabb színvonalú
+                            biztonsági szolgáltatásokat nyújtsuk.
+                        </p>
                         <div class="footer-form">
                             <form action="#" data-url="MAILCHIMP_FORM_URL" class="footer-widget__newsletter mc-form">
                                 <input type="email" name="EMAIL" placeholder="Email">
@@ -42,27 +44,26 @@
                 </div>
                 <div class="col-md-6 col-xl-4">
                     <div class="footer-widget footer-widget--links">
-                        <h2 class="footer-widget__title">Links</h2>
+                        <h2 class="footer-widget__title">Linkek</h2>
                         <ul class="list-unstyled footer-widget__links">
-                            <li class="footer-widget__links__item"><a href="about.html">About Us</a></li>
-                            <li class="footer-widget__links__item"><a href="team.html">Meet Our Team</a></li>
-                            <li class="footer-widget__links__item"><a href="blog-list.html">Latest News</a></li>
-                            <li class="footer-widget__links__item"><a href="project.html">Our Project</a></li>
-                            <li class="footer-widget__links__item"><a href="contact.html">Contact</a></li>
+                            <li class="footer-widget__links__item"><a href="/">Kezdőlap</a></li>
+                            <li class="footer-widget__links__item"><a href="#rolunk">Rólunk</a></li>
+                            <li class="footer-widget__links__item"><a href="#szolgaltatasok">Szolgáltatások</a></li>
+                            <!-- <li class="footer-widget__links__item"><a href="/blog">Blog</a></li> -->
+                            <li class="footer-widget__links__item"><a href="#kapcsolat">Kapcsolat</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-4">
                     <div class="footer-widget footer-widget--contact">
-                        <h2 class="footer-widget__title">contact</h2>
+                        <h2 class="footer-widget__title">Kapcsolat</h2>
                         <ul class="list-unstyled footer-widget__contact">
                             <li class="footer-widget__contact__item">
                                 <div class="footer-widget__contact__icon">
                                     <i class="icon-call"></i>
                                 </div>
                                 <div class="footer-widget__contact__inner">
-                                    <a href="tel:+92-3800-8060" class="footer-widget__contact__text">+92 3800 8060</a>
-                                    <a href="tel:+21-9555-0114" class="footer-widget__contact__text">+21 9555-0114</a>
+                                    <a href="tel:+36309011006" class="footer-widget__contact__text">+36 30 901 1006</a>
                                 </div>
                             </li>
                             <li class="footer-widget__contact__item">
@@ -70,10 +71,8 @@
                                     <i class="icon-Earth"></i>
                                 </div>
                                 <div class="footer-widget__contact__inner">
-                                    <a href="https://themeforest.net/user/bracket-web"
-                                        class="footer-widget__contact__text">mitc@example.com</a>
-                                    <a href="https://themeforest.net/user/bracket-web"
-                                        class="footer-widget__contact__text">www.website.com</a>
+                                    <a href="mailto:kliseckapos1@gmail.com"
+                                        class="footer-widget__contact__text">kliseckapos1@gmail.com</a>
                                 </div>
                             </li>
                             <li class="footer-widget__contact__item">
@@ -81,8 +80,12 @@
                                     <i class="icon-Pin"></i>
                                 </div>
                                 <div class="footer-widget__contact__inner">
-                                    <p class="footer-widget__contact__text">6391 Elgin st. delaware <br> new york. usa
-                                    </p>
+                                    <a class="footer-widget__contact__text"
+                                        href="https://www.google.com/maps/@46.3630309,17.7833731,15z?entry=ttu">
+                                        <p class="footer-widget__contact__text">Kaposvár <br>
+                                            Füredi u. 6 Fsz. 1, 7400
+                                        </p>
+                                    </a>
                                 </div>
                             </li>
                         </ul>
@@ -98,8 +101,7 @@
     <div class="main-footer__bottom">
         <div class="container">
             <div class="main-footer__bottom__inner">
-                <p class="main-footer__copyright"> &copy; Copyright <span class="dynamic-year"></span> by Ostech HTML
-                    Template.</p>
+                <p class="main-footer__copyright"> &copy; Copyright <span class="dynamic-year"></span> by YouSite</p>
             </div>
         </div>
     </div>
@@ -118,8 +120,8 @@
         <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
         <div class="logo-box">
-            <a href="index.html" aria-label="logo image">
-                <img src="assets/images/logo-light.png" width="155" alt="ostech logo">
+            <a href="/" aria-label="logo image">
+                <img src="Boaz/img/logo.svg" width="155" alt="ostech logo">
             </a>
         </div>
         <!-- /.logo-box -->
@@ -129,11 +131,11 @@
         <ul class="mobile-nav__contact list-unstyled">
             <li>
                 <i class="fa fa-envelope"></i>
-                <a href="mailto:needhelp@ostech.com">needhelp@ostech.com</a>
+                <a href="mailto:kliseckapos1@gmail.com">kliseckapos1@gmail.com</a>
             </li>
             <li>
                 <i class="fa fa-phone-alt"></i>
-                <a href="tel:666-888-0000">666 888 0000</a>
+                <a href="tel:++36309011006">06 30 901 1006</a>
             </li>
         </ul><!-- /.mobile-nav__contact -->
         <div class="mobile-nav__social">

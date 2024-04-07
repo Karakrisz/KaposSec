@@ -1,9 +1,24 @@
 /********************  Boaz formating start **********************/
 
+a {
+  cursor: pointer;
+}
+
 .about-one__feature__item__thumb,
 .footer-widget__thumb,
-.footer-form {
+.footer-form,
+.blog-one,
+.main-header__right__info,
+.service-card-two__icon,
+.why-choose-two__inner__item__icon i,
+.client-carousel,
+.testimonials-one,
+.icon-right-arrow {
   display: none;
+}
+
+.main-menu .main-menu__list > li + li {
+  margin-left: 60px;
 }
 
 .main-slider-one__title {
@@ -13,13 +28,70 @@
 .about-one__feature__item {
   width: 100%;
 }
+.about-one__thumb__item img {
+  width: 70%;
+  height: 25.3em;
+  object-fit: cover;
+}
+
+.project-one__thumb img {
+  width: 100%;
+  height: 100%;
+}
+
+.project-one__content__title {
+  text-align: center;
+}
+
+.project-one__content {
+  justify-content: center;
+}
 
 .service-card-two__title {
   font-size: 20px;
 }
+
+.service-one__item__text {
+  color: #fff;
+}
+
+.service-one__item__title {
+  font-weight: 700;
+}
+
+.service-one__item__thumb::after {
+  height: 95%;
+}
+
+.why-choose-two__inner__thumb img {
+  width: 100%;
+  height: 41.2em;
+}
+
+.benefit-one__thumb img {
+  width: 100%;
+}
 /********************  Media start **********************/
 
 @media screen and (max-width: 767px) {
+  .main-slider-one__title {
+    font-size: 37px;
+  }
+  .about-one__funfact__item__text {
+    font-size: 17px;
+  }
+  .about-one__funfact__item__count {
+    font-size: 48px;
+  }
+  .service-card-two__content {
+    padding: 0.8em 0 0.01em;
+  }
+  .sec-title__title {
+    font-size: 30px;
+  }
+  .main-footer__middle {
+    padding-left: 1em;
+  }
 }
 
 /********************  Media end **********************/
